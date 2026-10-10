@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hi!\n";
+    std::cout << "My name is Lysko Alexandr Yevgenyevich! My favorite writer is Bjarne Stroustrup.\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
